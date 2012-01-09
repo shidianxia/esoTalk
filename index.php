@@ -30,6 +30,7 @@ define("IN_ESOTALK", 1);
 define("PAGE_START_TIME", microtime(true));
 
 // By default, only display important errors (no warnings or notices.)
+ini_set("date.timezone", "Asia/Shanghai");
 ini_set("display_errors", "On");
 error_reporting(E_ERROR | E_PARSE | E_CORE_ERROR | E_COMPILE_ERROR | E_USER_ERROR | E_RECOVERABLE_ERROR);
 
