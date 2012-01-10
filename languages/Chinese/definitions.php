@@ -439,18 +439,18 @@ $definitions["message.waitToSearch"] = "您搜索太快了，请等待 %s 秒，
 
 
 // Emails.
-$definitions["email.confirmEmail.body"] = "Someone (hopefully you!) has signed up to the forum '%1\$s' with this email address.\n\nIf this was you, simply visit the following link and your account will be activated:\n%2\$s";
-$definitions["email.confirmEmail.subject"] = "%1\$s, please confirm your email address";
-$definitions["email.footer"] = "\n\n(If you don't want to receive any emails of this kind again, <a href='%s'>click here</a>.)";
-$definitions["email.forgotPassword.body"] = "Someone (hopefully you!) has submitted a forgotten password request for your account on the forum '%1\$s'. If you do not wish to change your password, just ignore this email and nothing will happen.\n\nHowever, if you did forget your password and wish to set a new one, visit the following link:\n%2\$s";
-$definitions["email.forgotPassword.subject"] = "Did you forget your password, %1\$s?";
-$definitions["email.header"] = "Hey %s!\n\n";
-$definitions["email.mention.body"] = "%1\$s tagged you in a post in the conversation '%2\$s'.\n\nTo view the post, check out the following link:\n%3\$s";
-$definitions["email.mention.subject"] = "%1\$s tagged you in a post";
-$definitions["email.privateAdd.body"] = "You have been added to a private conversation titled '%1\$s'.\n\nTo view this conversation, check out the following link:\n%2\$s";
-$definitions["email.privateAdd.subject"] = "You have been added to a private conversation";
-$definitions["email.replyToStarred.body"] = "%1\$s has replied to a conversation which you starred: '%2\$s'.\n\nTo view the new activity, check out the following link:\n%3\$s";
-$definitions["email.replyToStarred.subject"] = "There is a new reply to '%1\$s'";
+$definitions["email.confirmEmail.body"] = "欢迎您用 '%1\$s' 这个邮件地址注册。\n\n请点击这个链接验证您的帐号：\n%2\$s";
+$definitions["email.confirmEmail.subject"] = "%1\$s 请验证您的邮件地址。";
+$definitions["email.footer"] = "\n\n如果您不想再收到这样的邮件，<a href='%s'>点击退订</a>。";
+$definitions["email.forgotPassword.body"] = "您使用了忘记密码功能 '%1\$s'。如果您已经记起了密码，忽略这封邮件。\n\n确实要重设密码？点击这个链接：\n%2\$s";
+$definitions["email.forgotPassword.subject"] = "您是否忘记了密码 %1\$s？";
+$definitions["email.header"] = "嗨 %s！\n\n";
+$definitions["email.mention.body"] = "%1\$s 在这个讨论中提到了您 '%2\$s'。\n\n点击这个链接查看详情：\n%3\$s";
+$definitions["email.mention.subject"] = "%1\$s 在一个讨论中提到了您";
+$definitions["email.privateAdd.body"] = "您被邀请参与这个非公开讨论 '%1\$s'。\n\n点击这个链接查看详情：\n%2\$s";
+$definitions["email.privateAdd.subject"] = "您被邀请参与一个非公开讨论";
+$definitions["email.replyToStarred.body"] = "%1\$s 回复了您加星标的讨论 '%2\$s'。\n\n点击这个链接查看详情：\n%3\$s";
+$definitions["email.replyToStarred.subject"] = "这则讨论有新回复 '%1\$s'";
 
 
 // Translating the gambit system can be quite complex, but we'll do our best to get you through it. :)
