@@ -1,3 +1,5 @@
+## esoTalk's i18n Chinese Simplified fix version
+
 esoTalk is free, open-source Internet forum software written in PHP and MySQL. It is intent on being extremely simple, fast, and modern, containing all of the essential features a forum might need, and a powerful plugin system allowing developers to extend it in any way they like.
 
 If you like this software, please consider [donating to support the developer](http://esotalk.org/donate).
